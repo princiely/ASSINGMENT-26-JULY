@@ -1,0 +1,32 @@
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    border: solid skyblue;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 5px solid blue;
+    
+}
+.item1{
+    
+    
+    
+    
+
+}
+.item2{
+    border: 5px solid red;
+}
+img{
+    max-width: 300px;
+    max-height: 1000px;
+    border-radius: 30px;
+
+}
+
+
+    
